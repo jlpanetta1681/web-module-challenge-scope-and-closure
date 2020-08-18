@@ -6,13 +6,14 @@ The module challenge is the afternoon project or assignment that students work t
 
 ## Scope and Closures
 
-## Objectives
+## Oinitial commit
+bjectives
 
 - Explain function scope
 - Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  
 
 ## Introduction
-
+init commit changes
 This challenge focuses on both scope and closures.
 
 In this challenge you will be working to build a `scoreboard` (in the console) that takes randomly generated data and keeps track of a game's progress. If you're not familiar with the rules of baseball what you need to know is this: there are 9 innings and teams take turns "at-bat." Teams can only score while they are at bat. A team stops being at bat once they have gotten 3 `outs` by either striking out or through game play. You can read more about baseball rules [here](https://www.rulesofsport.com/sports/baseball.html).
